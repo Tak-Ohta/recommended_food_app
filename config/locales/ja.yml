@@ -3,5 +3,6 @@ ja:
     models:
       food: 料理
     attributes:
-      name: 料理名
-      comment: コメント
+      food:
+       name: 料理名
+       comment: コメント
